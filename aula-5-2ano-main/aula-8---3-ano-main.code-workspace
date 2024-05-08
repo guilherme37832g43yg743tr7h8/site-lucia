@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../aula-8---3-ano-main"
+		},
+		{
+			"path": "../../Documentos/Senhas Abel"
+		},
+		{
+			"path": "../aula-4-2ano-main-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Senhas Abel"
+	}
+}
